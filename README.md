@@ -6,11 +6,11 @@
 
 ## About me ⚔️
 
-Hello, I'm Lesslie, a Spanish web developer and game maker that loves to be in company. I'm known on the Internet as **X341**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and pink.
+Hello, I'm Lesslie, a Spanish developer and game maker that loves to be in company. I'm known on the Internet as **X341**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and blue.
 
 ## Featured projects 🌟
 
-- **aonbas**: A web application to see in real time the trains on the Barcelona railway system
+- **aonbas2**: A web application to see in real time the trains on the Barcelona railway system
 
 ## Technologies 🔧
 
@@ -24,7 +24,6 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 
 - **E-mail** [admin@x341.dev](mailto:admin@x341.dev)
 - **Web** ~~www.x341.es~~ W.I.P
-- **Discord** [x341](https://discordapp.com/users/6VbBDMTBdc)
 
 ## Stats 📊
 ![x341dev's Stats](https://github-readme-stats.vercel.app/api?username=x341dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
