@@ -1,12 +1,12 @@
 <div align="center">
   
-# Lesslie Fariñas (@x341dev)
+# Iago Fariñas (@x341dev)
 
 </div>
 
 ## About me ⚔️
 
-Hello, I'm Lesslie, a Spanish developer and game maker that loves to be in company. I'm known on the Internet as **X341**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and blue.
+Hello, I'm Iago, a Spanish developer and game maker that loves to be in company. I'm known on the Internet as **X341**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and blue.
 
 ## Featured projects 🌟
 
