@@ -26,7 +26,7 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 - **Web** ~~www.x341.es~~ W.I.P
 
 ## Stats 📊
-![x341dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x341dev&show_icons=true&theme=gruvbox)
+![x341dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x341dev&show_icons=true&theme=tokyonight)
 
 ### Special thanks
 - [@Reddishye](https://github.com/Reddishye) For being with me this whole adventure, for being my mentor and my best fiend <3
