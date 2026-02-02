@@ -6,11 +6,11 @@
 
 ## About me ⚔️
 
-Hello, I'm Iago, a Spanish developer and game maker that loves to be in company. I'm known on the Internet as **X341**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and blue.
+Hello, I'm Iago, a Spanish developer and game maker that loves to be in company. I'm known on the Internet as **X341** or **x341dev**. I'm currently learning how to make more visually appealing web apps that enhance the user experience and improve my designing abilities. My favorite colors are purple and blue.
 
 ## Featured projects 🌟
 
-- **aonbas2**: A web application to see in real time the trains on the Barcelona railway system
+- **onbas**: A mobile application to see in real time the trains on the Barcelona railway system
 
 ## Technologies 🔧
 
@@ -22,8 +22,9 @@ HTML, CSS, JavaScript, C#, Unity, Python, Java, Kothlin, and more to come...
 
 I'm open to collabs on projects and commissions to improve myself. Feel free to reach out to me with any of these links.
 
-- **E-mail** [admin@x341.dev](mailto:admin@x341.dev)
+- **E-mail** [contact@x341.dev](mailto:contact@x341.dev)
 - **Web** [x341.dev](https://x341.dev)
+- **Linkedin** [Iago Fariñas](https://www.linkedin.com/in/x341dev/)
 
 ## Stats 📊
 ![x341dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x341dev&show_icons=true&theme=tokyonight)
