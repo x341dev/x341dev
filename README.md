@@ -23,7 +23,7 @@ HTML, CSS, JavaScript, C#, Unity, Python, Java, Kothlin, and more to come...
 I'm open to collabs on projects and commissions to improve myself. Feel free to reach out to me with any of these links.
 
 - **E-mail** [admin@x341.dev](mailto:admin@x341.dev)
-- **Web** ~~www.x341.es~~ W.I.P
+- **Web** [x341.dev](https://x341.dev)
 
 ## Stats 📊
 ![x341dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x341dev&show_icons=true&theme=tokyonight)
