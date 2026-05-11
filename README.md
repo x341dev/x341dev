@@ -10,7 +10,7 @@ Hello, I'm Iago, a Spanish developer and game maker that loves to be in company.
 
 ## Featured projects 🌟
 
-- **onbas**: A mobile application to see in real time the trains on the Barcelona railway system
+- **itbXLib**: My personal library for helping me with my class projects
 
 ## Technologies 🔧
 
