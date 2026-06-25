@@ -31,5 +31,5 @@ I'm open to collabs on projects and commissions to improve myself. Feel free to 
 
 ### Special thanks
 - [@Reddishye](https://github.com/Reddishye) For being with me this whole adventure, for being my mentor and my best fiend <3
-- [@alexpaisan0](https://github.com/alexpaisan0) For being my duo and relying on me with his problems
+- [@alejandrpalacios](https://github.com/alejandrpalacios) For being my duo and relying on me with his problems
 - [@cmorlasb](https://github.com/cmorlasb) For being my teammate in my studies and my friend in the projects.
