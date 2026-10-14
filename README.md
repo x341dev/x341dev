@@ -10,7 +10,8 @@ Hello, I'm Iago, a Spanish developer and game maker that loves to be in company.
 
 ## Featured projects 🌟
 
-- **itbXLib**: My personal library for helping me with my class projects
+- [**itbXLib**](https://github.com/x341dev/itbXLib): My personal library for helping me with my class projects
+- [MTR Rail Works](https://github.com/x341dev/MTR-Rail-Works): A MTR Mod that adds new rail functionalities
 
 ## Technologies 🔧
 
